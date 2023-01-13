@@ -5,3 +5,4 @@
 <h4>RUN</h4>
 <p>npm install</p>
 <h4>FOLLOW THE REACT NATIVE CLI TO RUN ON ANDROID</h4>
+https://reactnative.dev/docs/environment-setup
